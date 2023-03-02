@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizal Afnani</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia.</h3>
 
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
-
 
 - 🔭 I’m currently student at [Brawijaya University](https://ub.ac.id/)
 
