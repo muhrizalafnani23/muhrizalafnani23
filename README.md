@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizal Afnani</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia.</h3>
+<div class="tenor-gif-embed" data-postid="9471604" data-share-method="host" data-aspect-ratio="1.315" data-width="100%"><a href="https://tenor.com/view/cool-gif-9471604">Cool GIF</a>from <a href="https://tenor.com/search/cool-gifs">Cool GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🔭 I’m currently student at [Brawijaya University](https://ub.ac.id/)
 
