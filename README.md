@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizal Afnani</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia.</h3>
 
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+![banner]([https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkumparan.com%2Fhow-to-tekno%2Fruangguru-buka-ratusan-lowongan-kerja-banyak-buat-anak-magang-1tcI4sdRgSy&psig=AOvVaw0z7yJYYgtQxJeL02I8oTN1&ust=1677869053080000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDTzLnzvf0CFQAAAAAdAAAAABAE)
 
 
 - 🔭 I’m currently student at [Brawijaya University](https://ub.ac.id/)
