@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizal Afnani</h1>
-<h3 align="center">A passionate Software Engineer from Indonesia.</h3>
+<h3 align="center">A passionate Backend Engineering from Indonesia.</h3>
 
 
 # 💫 About Me:
